@@ -3,5 +3,5 @@ description: Classify herbs based on images you feed.
 about:
 
 
-code: https://github.com/anloehr-1997/fastai_l2.git
+code: git@github.com:anloehr-1997/fai_l2.git
 sampleImages:
