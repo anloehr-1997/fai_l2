@@ -8,7 +8,7 @@ This output file, **`model.pth`** is the input to the Heroku app.
 
  
 ### Test running the web app
-This [Docker image](https://github.com/npatta01/web-deep-learning-classifier/blob/master/Dockerfile) contains Python 3, Flask and fastai.
+This [Docker image](https://github.com/anloehr-1997/fai_l2.git) contains Python 3, Flask and fastai.
 ```
 docker build -t app .
 docker run -p 5000:5000 -it app 
